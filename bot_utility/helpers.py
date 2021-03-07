@@ -57,7 +57,7 @@ def init_config():
 
     config['RS_AUTH'] = {
       'IS_ENCR': '',
-      'EMAIL': 'Your-Email',
+      'EMAIL': 'Your-Email@email.com',
       'PASSWORD': 'Your-Password',
     }
     config['ENV'] = {

@@ -1,2 +1,5 @@
 driver/*
+!driver/.gitkeep
+
 config/*
+!config/.gitkeep
